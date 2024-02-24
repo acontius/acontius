@@ -2,7 +2,7 @@
 
 I am an undergraduate student in computer engineering who loves computers and programming.
 
-![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acontius)
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=acontius)
 
 ## 🔧 Languages and Tools
 
@@ -27,17 +27,16 @@ I am an undergraduate student in computer engineering who loves computers and pr
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
-## 🏆 Freelancer
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+## 🏆 Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=acontius)
+
+## 🚀 Featured Projects
+
+- [Project 1: Brief description and link](https://github.com/acontius/Car-Renting)
+- [Project 2: Brief description and link](https://github.com/yourusername/Vending-machine)
+- [Project 3: Brief description and link](https://github.com/yourusername/PackNake-Game)
 
 Available for any collaboration and exciting projects. Feel free to reach out!
 
 With love and respect,
 Amin
-
-
-
-<!---
-acontius/acontius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
