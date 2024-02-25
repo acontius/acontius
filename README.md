@@ -8,7 +8,7 @@ I am an undergraduate student in computer engineering who loves computers and pr
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-[![My Skills](https://skillicons.dev/icons?python,cpp)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?python,cpp)]
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Tools
