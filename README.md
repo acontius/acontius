@@ -33,8 +33,8 @@ I am an undergraduate student in computer engineering who loves computers and pr
 ## 🚀 Featured Projects
 
 - [Project 1: Brief description and link](https://github.com/acontius/Car-Renting)
-- [Project 2: Brief description and link](https://github.com/yourusername/Vending-machine)
-- [Project 3: Brief description and link](https://github.com/yourusername/PackNake-Game)
+- [Project 2: Brief description and link](https://github.com/acontius/Vending-machine.git)
+- [Project 3: Brief description and link](https://github.com/acontius/PackNake-Game)
 
 Available for any collaboration and exciting projects. Feel free to reach out!
 
