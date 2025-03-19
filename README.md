@@ -10,6 +10,9 @@ I am an undergraduate student in computer engineering who loves computers and pr
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Language Proficiency
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acontius&layout=compact&theme=dark)
+
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -37,5 +40,5 @@ I am an undergraduate student in computer engineering who loves computers and pr
 
 Available for any collaboration and exciting projects. Feel free to reach out!
 
-With love and respect,
+With love and respect,  
 Amin
